@@ -1,4 +1,5 @@
 -- Objects
+-- Made by ZhenX
 
 local SlimeGui = Instance.new("ScreenGui")
 local SlimesFrame = Instance.new("Frame")
